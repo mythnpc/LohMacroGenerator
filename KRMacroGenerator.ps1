@@ -35,6 +35,7 @@ $Heroes = @(
     [pscustomobject]@{name = "Jane"; ClassTab = 0; HeroTab = 4},
     [pscustomobject]@{name = "Ricardo"; ClassTab = 0; HeroTab = 5},
     [pscustomobject]@{name = "Sonia"; ClassTab = 0; HeroTab = 6},
+
     [pscustomobject]@{name = "Kasel"; ClassTab = 1; HeroTab = 0},
     [pscustomobject]@{name = "Gau"; ClassTab = 1; HeroTab = 1},
     [pscustomobject]@{name = "Naila"; ClassTab = 1; HeroTab = 2},
@@ -42,6 +43,7 @@ $Heroes = @(
     [pscustomobject]@{name = "Viska"; ClassTab = 1; HeroTab = 4},
     [pscustomobject]@{name = "Priscilla"; ClassTab = 1; HeroTab = 5},
     [pscustomobject]@{name = "Scarlet"; ClassTab = 1; HeroTab = 6},
+
     [pscustomobject]@{name = "Roi"; ClassTab = 2; HeroTab = 0},
     [pscustomobject]@{name = "Epis"; ClassTab = 2; HeroTab = 1},
     [pscustomobject]@{name = "Reina"; ClassTab = 2; HeroTab = 2},
@@ -50,18 +52,21 @@ $Heroes = @(
     [pscustomobject]@{name = "Ezekiel"; ClassTab = 2; HeroTab = 5},
     [pscustomobject]@{name = "Mirianne"; ClassTab = 2; HeroTab = 6},
     [pscustomobject]@{name = "Gladi"; ClassTab = 2; HeroTab = 7},
+
     [pscustomobject]@{name = "Selene"; ClassTab = 3; HeroTab = 0},
     [pscustomobject]@{name = "Dimael"; ClassTab = 3; HeroTab = 1},
     [pscustomobject]@{name = "Luna"; ClassTab = 3; HeroTab = 2},
     [pscustomobject]@{name = "Arch"; ClassTab = 3; HeroTab = 3},
     [pscustomobject]@{name = "Yanne"; ClassTab = 3; HeroTab = 4},
     [pscustomobject]@{name = "Requina"; ClassTab = 3; HeroTab = 5},
+
     [pscustomobject]@{name = "Lakrak"; ClassTab = 4; HeroTab = 0},
     [pscustomobject]@{name = "Miruru"; ClassTab = 4; HeroTab = 1},
     [pscustomobject]@{name = "Rodina"; ClassTab = 4; HeroTab = 2},
     [pscustomobject]@{name = "Annete"; ClassTab = 4; HeroTab = 3},
     [pscustomobject]@{name = "Mitra"; ClassTab = 4; HeroTab = 4},
     [pscustomobject]@{name = "Oddy"; ClassTab = 4; HeroTab = 5},
+
     [pscustomobject]@{name = "Cleo"; ClassTab = 5; HeroTab = 0},
     [pscustomobject]@{name = "Maria"; ClassTab = 5; HeroTab = 1},
     [pscustomobject]@{name = "Loraine"; ClassTab = 5; HeroTab = 2},
@@ -71,6 +76,7 @@ $Heroes = @(
     [pscustomobject]@{name = "Nyx"; ClassTab = 5; HeroTab = 6},
     [pscustomobject]@{name = "Ophelia"; ClassTab = 5; HeroTab = 7},
     [pscustomobject]@{name = "Artemia"; ClassTab = 5; HeroTab = 8},
+    
     [pscustomobject]@{name = "Frey"; ClassTab = 6; HeroTab = 0},
     [pscustomobject]@{name = "Kaulah"; ClassTab = 6; HeroTab = 1},
     [pscustomobject]@{name = "Rephy"; ClassTab = 6; HeroTab = 2},

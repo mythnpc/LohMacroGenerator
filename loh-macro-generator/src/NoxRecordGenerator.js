@@ -58,7 +58,7 @@ class NoxRecordGenerator extends Component {
                 { name: "Fluss", classCoordinates: 2, heroCoordinates: 3 },
                 { name: "Tanya", classCoordinates: 2, heroCoordinates: 4 },
                 { name: "Ezekiel", classCoordinates: 2, heroCoordinates: 5 },
-                { name: "Mirianne", classCoordinates: 2, heroCoordinates: 6 },
+                { name: "Miriane", classCoordinates: 2, heroCoordinates: 6 },
                 { name: "Gladi", classCoordinates: 2, heroCoordinates: 7 },
 
                 { name: "Selene", classCoordinates: 3, heroCoordinates: 0 },
